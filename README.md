@@ -1,4 +1,4 @@
-# UnityFoldoutDecorator
+# UnityFoldoutDecorator --如何自定义atti 显示样式。
 Foldout as a Decorator for group variables in Unity Script Inspector with options for:
 
 * change foldout name.
